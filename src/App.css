@@ -1,0 +1,190 @@
+* {
+  margin: 0;
+  padding: 0;
+
+  box-sizing: border-box;
+
+  font-size: 62.5%;
+}
+
+body {
+  width: 100vw;
+  height: 100vh;
+
+  display: flex;
+
+  align-items: center;
+  justify-content: center;
+
+  position: relative;
+}
+
+article {
+  display: flex;
+
+  flex-direction: column;
+
+  align-items: center;
+  justify-content: center;
+}
+
+article h1 {
+
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+
+  color: #363645;
+
+  font-family: 'Sora', sans-serif;
+
+  font-weight: 800;
+
+  font-size: 4.8rem;
+
+  letter-spacing: 0.4rem;
+}
+
+article p {
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+
+  padding: .4rem 0.8rem;
+
+  background: #F4F4F4;
+
+  color: #313137;
+
+  font-family: 'Sora', sans-serif;
+
+  font-weight: 400;
+
+  font-size: 1.2rem;
+
+  margin-top: 2.4rem;
+
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+
+  letter-spacing: 0.24rem;
+}
+
+article p span {
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+
+  font-size: 1.6rem;
+}
+
+article p a {
+  color: #9655ff;
+
+  font-size: 1.4rem;
+}
+
+img {
+  position: absolute;
+
+  -webkit-user-select: none;
+  -ms-user-select: none;
+  user-select: none;
+}
+
+#SmilingFaceWithHearts {
+  width: 14.4rem;
+  height: 14.4rem;
+
+  object-fit: cover;
+
+  left: 12.5%;
+  right: 77.42%;
+  top: 17.97%;
+  bottom: 63.87%;
+}
+
+#PartyingFace {
+  width: 8rem;
+  height: 8rem;
+
+  object-fit: cover;
+
+  left: 48%;
+  right: 48%;
+  top: 16%;
+  bottom: 72%;
+}
+
+#Sparkles {
+  width: 4.8rem;
+  height: 4.8rem;
+
+  object-fit: cover;
+
+  left: 69.65%;
+  right: 26.49%;
+  top: 11.24%;
+  bottom: 81.82%;
+}
+
+
+#SpilingFaceWithSunglasses {
+  width: 11.2rem;
+  height: 11.2rem;
+
+  object-fit: cover;
+
+  left: 81.4%;
+  right: 10.4%;
+  top: 24.75%;
+  bottom: 60.5%;
+}
+
+#ZanyFace {
+  width: 12rem;
+  height: 12rem;
+
+  object-fit: cover;
+
+  left: 7.36%;
+  right: 83.89%;
+  top: 70.38%;
+  bottom: 13.87%;
+}
+
+#HeartSuit {
+  width: 8.8rem;
+  height: 8.8rem;
+
+  object-fit: cover;
+
+  left: 38.96%;
+  right: 55%;
+  top: 78.75%;
+  bottom: 10.38%;
+}
+
+#ExplodingHead {
+  width: 9.6rem;
+  height: 9.6rem;
+
+  object-fit: cover;
+
+  left: 68.47%;
+  right: 24.58%;
+  top: 72.5%;
+  bottom: 15%;
+}
+
+#NerdFace {
+  width: 8rem;
+  height: 8rem;
+
+  object-fit: cover;
+  left: 89.06%;
+  right: 5.01%;
+  top: 62.38%;
+  bottom: 26.95%;
+}
