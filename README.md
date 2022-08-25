@@ -47,10 +47,3 @@ Na master ficará a página agregadora dos desafios no futuro
     <img alt="Meu site" width="22px" src="https://github.com/filipeleonelbatista/filipeleonelbatista/blob/master/assets/worldwide.svg" />
   </a>
 </p>
-
-###
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=true&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=codeSTACKr&locale=en&hide_border=true&username=filipeleonelbatista" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=5&theme=codeSTACKr&hide_border=true&username=filipeleonelbatista" height="150" alt="languages graph"  />
-</div>
-
