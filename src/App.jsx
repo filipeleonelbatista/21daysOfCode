@@ -3,7 +3,7 @@ import './App.css'
 
 function App() {
   const emojis = ['☹️', '😐', '😊', '😁']
-  const [selectedEmoji, setSelectedEmoji] = useState(3)
+  const [selectedEmoji, setSelectedEmoji] = useState(0)
 
   return (
     <div className='app'>
